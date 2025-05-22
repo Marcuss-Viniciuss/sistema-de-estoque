@@ -36,9 +36,8 @@ Este projeto tem como objetivo gerenciar entradas e saídas de produtos em estoq
 
 ##  Tecnologias Utilizadas
 
-- **Frontend**: React, Tailwind CSS, Vite  
-- **Backend**: Node.js, Express (ou PHP/Laravel, ajustar conforme o projeto)  
-- **Banco de Dados**: MySQL (ou outro, ajustar conforme o projeto)  
+- **Frontend**: Vite, React, TypeScript e Tailwind CSS 
+- **Banco de Dados**: Supabase
 - **Controle de Versão**: Git e GitHub  
 
 ---
